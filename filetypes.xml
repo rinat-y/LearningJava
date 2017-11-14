@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="galtolit" type="CLASS" />
+      <mapping pattern="1-1_GalToLit" type="CLASS" />
+      <mapping pattern="ffff" type="JAVA" />
+    </extensionMap>
+  </component>
+</application>
