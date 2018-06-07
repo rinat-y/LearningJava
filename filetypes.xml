@@ -4,6 +4,10 @@
       <mapping pattern="galtolit" type="CLASS" />
       <mapping pattern="1-1_GalToLit" type="CLASS" />
       <mapping pattern="ffff" type="JAVA" />
+      <mapping ext="part04" type="PLAIN_TEXT" />
+      <mapping ext="part03" type="PLAIN_TEXT" />
+      <mapping ext="part02" type="PLAIN_TEXT" />
+      <mapping ext="part01" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
