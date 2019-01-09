@@ -1,5 +1,11 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="45e17151-fdf6-475b-8a7e-ffbf416f4eab" name="rinat-y">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
+    <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>
